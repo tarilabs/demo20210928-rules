@@ -1,2 +1,3 @@
 package com.myspace.demo20210928_rules;
 
+import org.drools.demo20210928.model.*;
